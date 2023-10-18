@@ -4,6 +4,8 @@ Project Name: Godchosen
 
 Description: Godchosen is a 2D video game developed in the Unity game engine, with a side-scrolling perspective, that combines elements from both the platformer and the tower defense sub-genres to deliver an epic journey into the mythological world of Ancient Greece.
 
+Demo link: https://www.youtube.com/watch?v=MCed8_qiJ44
+
 Features: 
   - 5 different levels, split into 3 parts, with different gameplay, mechanics and enemies
       - Part 1 - 3 platformer levels, filled with coins to collect and enemies to defeat while navigating platforms and ladders
